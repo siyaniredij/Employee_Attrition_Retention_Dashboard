@@ -14,4 +14,4 @@ Highest attrition in R&D (133) and among male employees (150).
 Overtime employees showed higher attrition trends (46%).
 
 Tools and Skills Used:
-Power BI, DAX, Data Modeling, HR Analytics.
+Power BI, DAX, Data Modeling.
